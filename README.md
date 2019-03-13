@@ -1,4 +1,3 @@
 # web
-Çalışma dosyaları başlıyoruzzz..s.
+Çalışma dosyaları başlıyoruzzz..
 
-s
