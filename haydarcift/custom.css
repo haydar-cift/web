@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+footer {color: white} 
+body {background-color: whitesmoke!important
+
+}
+
+.pencil {height: 75px; 
+width: 75px;
+opacity: 0.95;
+
+
+}
+
+.pencil:hover {opacity:1;}
+
+
+.baslik {
+	font-family: open sans;
+}
+
+.kek {
+	font-weight: bold; 
+}
+
+.col-md-4 {font-size: medium; 
+
+}
+
+.ıphone {height: 460px; width: auto;}
+.adam {size: 100%;}
+
+@media screen and (max-width:767px) ,screen and (max-device-width:767px) {
+
+  .ıphone{display:none;}
+
+  
+}

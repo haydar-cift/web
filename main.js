@@ -1,6 +1,4 @@
-var isim = "haydar" ;
+var i;
+for (i= 0; i<5; i++) {
+alert("Index " + i); }
 
-console.log ("hi"+ isim)
-{
-    
-}

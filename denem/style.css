@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {width: 900px; margin: auto; text-align: center;}
+
+header{background-color: green; height: 130px;}
+
+
+#menu {background-color: purple; height: 120px;}
+#duyurular {background-color: yellow; height: 300px;width: 450px; float: left }
+#hizlierisim {background-color: blue; height: 300px;width: 450px;float: left}
+#linkler {background-color: pink; height: 70px}
+footer{background-color: black; color: white; height: 100px;clear: both}
